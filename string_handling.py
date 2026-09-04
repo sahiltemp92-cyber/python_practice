@@ -1,5 +1,14 @@
 s  = "hello world"
-
+"""
+String handling methods are as follows:
+1.String is immutable.
+2.String is ordered.
+3.String is indexed.
+4.String is sliced.
+5.String is concatenated.
+6.String is repeated.
+7.String is formatted.
+"""
 print(s.upper()) # Convert to uppercase
 print(s.lower()) # Convert to lowercase
 print(s.title()) # Convert to title case

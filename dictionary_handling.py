@@ -5,6 +5,18 @@ dict = {
     "city" : "Mumbai"
 }
 
+
+"""
+Dictionary documentation is as follows:
+1. Dictionary is a collection of key-value pairs.
+2. Dictionary is mutable.
+3. Dictionary is ordered.
+4. Dictionary is indexed.
+5. Dictionary is sliced.
+6. Dictionary is concatenated.
+7. Dictionary is repeated.
+8. Dictionary is formatted.
+"""
 print(dict)
 print(dict["name"])
 print(dict["age"])

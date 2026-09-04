@@ -1,6 +1,22 @@
 numbers = [1,2,3,4,5,"sahil"]
 
-
+"""
+List operations are as follows:
+1.Add element to list
+2.Remove element from list
+3.Check if element exists in list
+4.Count occurrences of element in list
+5.Sort list
+6.Reverse list
+7.Copy list
+8.Extend list
+9.Index of element
+10.Length of list
+11.Membership testing
+12.Slicing
+13.List comprehension
+14.Nested list
+"""
 # Add element to list
 numbers.append("python") # Add to end
 numbers.insert(2,"automation") # Add at specific position

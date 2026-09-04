@@ -1,3 +1,13 @@
+
+"""
+File handling documentation is as follows:
+1.Open file
+2.Read file
+3.Write file
+4.Append file
+5.Delete file
+"""
+
 with open("sample.txt", "r") as file:
     print(file.read())
 
